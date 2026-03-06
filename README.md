@@ -10,7 +10,7 @@ This project is a simple Bank Management System developed using Python and Tkint
 - View Transaction History
 - Check Account Balance
 
-## Technologies Used
+## Technologies and Programming Concepts
 - Python
 - Tkinter (GUI)
 - Object-Oriented Programming (OOP)
